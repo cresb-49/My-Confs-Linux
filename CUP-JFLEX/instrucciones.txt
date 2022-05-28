@@ -1,0 +1,6 @@
+Al momento de mover las carpetas de las herramientas con sudo
+debemos de dar premirsos de lectura escritura y ejecucion a la carpeta
+por ende debemos de ejecutar la siguiente instruccion en la carpeta donde se 
+guarda la herramienta
+
+sudo chmod -R 775 directory_name
